@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="d" approved="true" type="D file" />
+      <mapping ext="d" type="PLAIN_TEXT" />
+      <removed_mapping ext="d" approved="true" type="D file" />
+    </extensionMap>
+  </component>
+</application>
